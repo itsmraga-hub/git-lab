@@ -1,4 +1,5 @@
 #!/usr/bin/python3
 
-number = 7
-print(number)
+def print_number(num):
+    return num ** 2
+
